@@ -1,6 +1,6 @@
 # Wind-Generator-Short-Circuit-Fault-Detection-using-Machine-Learning
 
-Currently writing a paper for an IEEE Conference. Will be uploading the project very soon.
+Currently working on this project, and planning to write up a paper. Will be uploading the project very soon.
 
 Some of my other machine learning projects are:
 
