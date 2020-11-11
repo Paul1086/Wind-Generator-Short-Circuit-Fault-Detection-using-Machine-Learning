@@ -12,7 +12,7 @@ Some of my other machine learning projects are:
   Tools: Python, NumPy, Pandas, Matplotlib, Scikit-learn, Tensorflow, Keras <br />
   https://github.com/Paul1086/Chicago-Crime-Classification
 
-* Image Classification using Convolutional Neural Network <br />
+* Image Classification using Deep CNN (ResNet50) and Conventional CNN <br />
   Tools: Python, NumPy, Matplotlib, Seaborn, Tensorflow, Keras <br />
-  https://github.com/Paul1086/Image-Classification-with-CNN
+  https://github.com/Paul1086/Image-Classification-with-Deep-CNN-ResNet50-and-Conventional-CNN
 
